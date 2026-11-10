@@ -1,0 +1,14 @@
+.venv
+.git
+__pycache__
+*.pyc
+mlflow-data
+mlartifacts
+mlflow.db
+screenshots
+data
+*.zip
+requirements.lock.txt
+sample_request.json
+expected_predictions.json
+test_metrics.json

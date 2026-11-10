@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+mlflow-data/
+exported_model/
+data/raw/
+screenshots/
+requirements.lock.txt
+sample_request.json
+expected_predictions.json
+test_metrics.json
